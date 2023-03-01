@@ -31,6 +31,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  firebase_auth: ^4.2.9
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -40,7 +41,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  curved_navigation_bar: ^1.0.3
+
+  # firebase_auth: ^4.2.9
+  firebase_core: ^2.7.0
+  cloud_firestore: ^4.4.3
+  
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -48,6 +53,7 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
+  curved_navigation_bar: ^1.0.3
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
