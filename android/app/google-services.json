@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041026033627",
+    "project_id": "todokit-be92e",
+    "storage_bucket": "todokit-be92e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041026033627:android:825682959ca80bf2fce9fe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041026033627-v5qgptstnrq8v9bvhtdfjtig62jg83e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "4b7018de97741010c48111e8c8c1e97e3dc2c50e"
+          }
+        },
+        {
+          "client_id": "1041026033627-ub5h67n0ffaktr89ql1blaelu6qqni7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-FEgVzqnNDVNdvVh3OBFaYFctJnbUYeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041026033627-ub5h67n0ffaktr89ql1blaelu6qqni7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
